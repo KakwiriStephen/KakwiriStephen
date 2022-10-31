@@ -21,7 +21,7 @@
 <br>
 
 
-## My GitHub Stats 📈
+<p align="center"## My GitHub Stats 📈 </p>
 <p align="center">
 <a href="https://github.com/KakwiriStephen">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KakwiriStephen&count_private=true&show_icons=true&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
