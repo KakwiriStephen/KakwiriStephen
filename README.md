@@ -21,6 +21,16 @@
 <br>
 
 
+## My GitHub Stats 📈
+<p align="center">
+<a href="https://github.com/KakwiriStephen">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KakwiriStephen&count_private=true&show_icons=true&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KakwiriStephen&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
+</a>
+</p>
+
+
+
 <!---
 KakwiriStephen/KakwiriStephen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
