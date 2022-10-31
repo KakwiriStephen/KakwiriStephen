@@ -7,7 +7,7 @@
 
 <h2> 🥞 Tech Stack</h2>
 <p align="center">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=0000FF"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="NodeJs" src="https://img.shields.io/badge/node.js-%23f2ca61.svg?style=for-the-badge&logo=node.js&logoColor=%FFFFFF"/>
@@ -21,14 +21,12 @@
 <br>
 
 ## My GitHub Stats 📈 
-<p align="center">
-<a href="https://github.com/KakwiriStephen">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KakwiriStephen&count_private=true&show_icons=true&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
-</p> 
-  <p align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KakwiriStephen&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
-</a>
-</p>
+<p>
+<a href="http://www.github.com/KakwiriStephn"><img src="https://github-readme-stats.vercel.app/api?username=KakwiriStephen&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&show_icons=true" alt="=KakwiriStephen's GitHub stats" /></a>
+
+<a href="http://www.github.com/=KakwiriStephen"><img src="https://github-readme-streak-stats.herokuapp.com/?user==KakwiriStephen&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
+
+<a href="https://github.com/=KakwiriStephen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username==KakwiriStephen&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
