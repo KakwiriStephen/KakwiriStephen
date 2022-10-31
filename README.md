@@ -5,7 +5,7 @@
 - 📫 How to reach me ...Email ngottakakwiri@gmail.com
 
 
-## Contribution Graph 📊
+
 
 
 <!---
@@ -15,6 +15,3 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
-<img
-     src="https://activity-graph.herokuapp.com/graph?username=KakwiriStephen-Dey&theme=chartreuse-dark"
-     />
