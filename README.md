@@ -8,7 +8,7 @@
 ## Contribution Graph 📊
 
 <img
-     src="https://activity-graph.herokuapp.com/graph?username=Susmita-Dey&theme=chartreuse-dark"
+     src="https://activity-graph.herokuapp.com/graph?username=KakwiriStephen-Dey&theme=chartreuse-dark"
      />
 <!---
 KakwiriStephen/KakwiriStephen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
