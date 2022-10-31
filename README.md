@@ -20,7 +20,7 @@
   </p>
 <br>
 
-  <p align="center"> ## My GitHub Stats 📈 </p>
+  <p align="center"><b>My GitHub Stats</b> 📈 </p>
 <p align="center">
 <a href="http://www.github.com/KakwiriStephn"><img src="https://github-readme-stats.vercel.app/api?username=KakwiriStephen&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&show_icons=true" alt="=KakwiriStephen's GitHub stats" /></a>
   </p>
