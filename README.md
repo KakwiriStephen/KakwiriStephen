@@ -27,7 +27,7 @@
 ![Node JS](https://img.shields.io/badge/Node.js-2C2D72?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-2C2D72?style=for-the-badge&logo=npm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-2C2D72?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-2C2D72.svg?style=for-the-badge&logo=git&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-2C2D72?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2C2D72?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-2C2D72?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,7 +35,7 @@
 ![Python](https://img.shields.io/badge/Python-2C2D72?style=for-the-badge&logo=python&logoColor=blue)
 ![numpy](https://img.shields.io/badge/Numpy-2C2D72?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-2C2D72?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-171717?style=for-the-badge&logo=mysql&logoColor=white)
 
 
   </p>
