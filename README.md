@@ -18,7 +18,7 @@
 <img alt="ExpressJs" src="https://img.shields.io/badge/express.js-%23ffd2ce.svg?style=for-the-badge&logo=express&logoColor=140200"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%23f2ca61.svg?style=for-the-badge&logo=mongodb&logoColor=140200" /> -->
   
-  
+<!--   
 ![React](https://img.shields.io/badge/React-2C2D72?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2C2D72?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-2C2D72?style=for-the-badge&logo=express&logoColor=white)
@@ -35,8 +35,8 @@
 ![Python](https://img.shields.io/badge/Python-2C2D72?style=for-the-badge&logo=python&logoColor=blue)
 ![numpy](https://img.shields.io/badge/Numpy-2C2D72?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-171717?style=for-the-badge&logo=mysql&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/MySQL-2C2D72?style=for-the-badge&logo=mysql&logoColor=white)
+ -->
 
   </p>
 <br>
