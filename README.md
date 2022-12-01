@@ -1,8 +1,8 @@
-<!-- - 👋 Hi, I’m @KakwiriStephen
+- 👋 Hi, I’m @KakwiriStephen
 - 👀 I’m interested in ...Web Design and App Development
 - 🌱 I’m currently learning ...Software Engineering
-- 💞️ I’m looking to collaborate on ...Web and App Development -->
-<p>I am an innovative, creative thinker with technical proficiency and experience in a wide variety of software, system architectures and programming languages, I am always current with the latest developments in the software development world. I pride myself on optimizing function and providing solutions that are intuitive user-friendly, adaptable and effective.<p/>
+- 💞️ I’m looking to collaborate on ...Web and App Development
+<!-- <p>I am an innovative, creative thinker with technical proficiency and experience in a wide variety of software, system architectures and programming languages, I am always current with the latest developments in the software development world. I pride myself on optimizing function and providing solutions that are intuitive user-friendly, adaptable and effective.<p/> -->
 - 📫 How to reach me ...Email ngottakakwiri@gmail.com
 
 
