@@ -1,3 +1,7 @@
+Full-Stack Developer 
+---------------------
+
+
 - 👋 Hi, I’m @KakwiriStephen
 - 👀 I’m interested in ...Web Design and App Development
 - 🌱 I’m currently learning ...Software Engineering
