@@ -8,13 +8,12 @@ Proficient in designing and implementing software solutions, debugging and troub
 - 👀 I’m interested in ...Web Design and App Development
 - 🌱 I’m currently learning ...Software Engineering
 - 💞️ I’m looking to collaborate on ...Web and App Development
-<!-- <p>I am an innovative, creative thinker with technical proficiency and experience in a wide variety of software, system architectures and programming languages, I am always current with the latest developments in the software development world. I pride myself on optimizing function and providing solutions that are intuitive user-friendly, adaptable and effective.<p/> -->
 - 📫 How to reach me ...Email ngottakakwiri@gmail.com
 
 
 
 
-  <p align="center"><b>My GitHub Stats</b> 📈🌟 </p>
+<p align="center"><b>My GitHub Stats</b> 📈🌟 </p>
 <p align="center">
 <a href="http://www.github.com/KakwiriStephen"><img src="https://github-readme-stats.vercel.app/api?username=KakwiriStephen&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&show_icons=true" alt="KakwiriStephen's GitHub stats" /></a>
   </p>
