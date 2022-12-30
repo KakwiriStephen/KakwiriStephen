@@ -5,10 +5,10 @@ Proficient in designing and implementing software solutions, debugging and troub
 
 
 - 👋 Hi, I’m Kakwiri Stephen
-- 👀 I’m interested in ...Web Design and App Development.
-- 🌱 I’m currently learning ...Software Engineering.
-- 💞️ I’m looking to collaborate on ...Web and App Development.
-- 📫 How to reach me ...Email ngottakakwiri@gmail.com.
+- 👀 I’m interested in...Web Design and App Development.
+- 🌱 I’m currently learning...Software Engineering.
+- 💞️ I’m looking to collaborate on...Web and App Development.
+- 📫 How to reach me...Email ngottakakwiri@gmail.com.
 
 
 
