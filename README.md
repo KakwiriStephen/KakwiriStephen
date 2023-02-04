@@ -8,7 +8,7 @@ Proficient in designing and implementing software solutions, debugging and troub
 - 👀 I’m interested in...Web Design and App Development.
 - 🌱 I’m currently learning...Software Engineering.
 - 💞️ I’m looking to collaborate on...Web and Mobile Development.
-- 📫 How to reach me...Email ngottakakwiri@gmail.com.
+ ngottakakwiri@gmail.com.
 
 
 
