@@ -6,3 +6,9 @@ Proficient in designing and implementing software solutions, debugging and troub
 
 - 📩 ngottakakwiri@gmail.com
 - ------------------------------
+
+start --> state 1 --> state 2 --> final state
+          ^          |         |
+          |     digit or decimal  |
+          |          v         |
+          -------- error -------
