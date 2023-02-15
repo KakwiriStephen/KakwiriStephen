@@ -7,3 +7,22 @@ Proficient in designing and implementing software solutions, debugging and troub
 - 📩 ngottakakwiri@gmail.com
 - ------------------------------
 
+         +-----+
+         |     |
+    ---->|  q0 |-----
+   |     |     |     |
+   |     +-----+     |
+   |                 |
+   |        +-----+  |
+   |        |     |  |
+   -------->|  q1 |<-------
+            |     |        |
+            +-----+        |
+                 |        |
+            +-----+  +-----+
+            |     |  |     |
+            |  qf |<-| q2  |
+            |     |  |     |
+            +-----+  +-----+
+
+
