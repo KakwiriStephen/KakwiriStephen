@@ -6,6 +6,6 @@ Proficient in designing and implementing software solutions, debugging and troub
 
 
 
-- 📩 ngottakakwiri@gmail.com
+- 📩 ngottakakwiri@gmail.com....
 - ---------------------------
 
