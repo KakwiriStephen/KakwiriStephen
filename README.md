@@ -85,7 +85,7 @@ I'm a **proficient software engineer** and **Data Science enthusiast**, driven b
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ivanokello.tech)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](kakwiristephen.vercel.app)
 [![GitHub](https://img.shields.io/badge/📂_Projects-View_on_GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KakwiriStephen)
 
 </div>
@@ -96,7 +96,7 @@ I'm a **proficient software engineer** and **Data Science enthusiast**, driven b
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-[kakwiristephen.vercel.app](https://kakwiristephen.vercel.app/)-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kakwiristephen.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kakwiristephen.vercel.app-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kakwiristephen.vercel.app)
 [![Email](https://img.shields.io/badge/Email-ngottakakwiri@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngottakakwiri@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-ngota-449b0a22b/)
 
