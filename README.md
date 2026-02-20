@@ -86,10 +86,6 @@ I'm a **proficient software engineer** and **Data Science enthusiast**, driven b
   <img src="https://streak-stats.demolab.com/?user=KakwiriStephen&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakwiristephen&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" />
-</div>
-
 ---
 
 ## 🌟 Featured Projects
