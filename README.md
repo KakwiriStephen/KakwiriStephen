@@ -18,7 +18,7 @@ I'm a **proficient software engineer** and **Data Science enthusiast**, driven b
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌍 **Based in:** Nairobi, Kenya 🇰🇪
-- 💼 **Portfolio:** [ivanokello.tech](https://kakwiristephen.vercel.app/)
+- 💼 **Portfolio:** [kakwiristephen.vercel.app](https://kakwiristephen.vercel.app/)
 - 📧 **Contact:** [ngottakakwiri@gmail.com](mailto:ngottakakwiri@gmail.com)
 - 🧠 **Currently Learning:** AI & Machine Learning
 - 🤝 **Open to Collaborate on:** Business Solutions, Current Technology, Web Applications & Web3
@@ -96,7 +96,7 @@ I'm a **proficient software engineer** and **Data Science enthusiast**, driven b
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-[https://kakwiristephen.vercel.app/](https://kakwiristephen.vercel.app/)-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kakwiristephen.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-[kakwiristephen.vercel.app](https://kakwiristephen.vercel.app/)-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kakwiristephen.vercel.app)
 [![Email](https://img.shields.io/badge/Email-ngottakakwiri@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngottakakwiri@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-ngota-449b0a22b/)
 
